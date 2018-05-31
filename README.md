@@ -1,2 +1,2 @@
-# BaiscDesign
+# BasicDesign
 Designing Web page
