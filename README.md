@@ -1,2 +1,0 @@
-# BasicDesign
-Designing Web page
